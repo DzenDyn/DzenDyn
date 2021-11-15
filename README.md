@@ -15,13 +15,11 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzendyn&show_icons=true&theme=vue&layout=compact" />
   
 <a href="https://github.com/dzendyn/baseBackend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dzendyn&repo=baseBackend" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dzendyn&repo=baseBackend" />
 </a>
 
-
-
 <a href="https://github.com/dzendyn/zen-cf-ddns">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dzendyn&repo=zen-cf-ddns" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=dzendyn&repo=zen-cf-ddns" />
 </a>
 
 ---
