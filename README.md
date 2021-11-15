@@ -37,8 +37,7 @@
 * Huawei FusionCube
 
 ## *Languages*
-* English – Upper-intermediate/Advanced, but got C2 proficient on ![EFSET](/img/efset-logo.png):
-![EFSET LEVEL 71 C2](/img/eng_lvl.png)
+* English – Upper-intermediate/Advanced, but got C2 proficient on <a href="https://www.efset.org/cert/WGP6Xw">EFSET</a>
 * Russian – Native
 
 
