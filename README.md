@@ -1,6 +1,10 @@
 # *Evgeny Nikiforov*
 **Backend Developer**
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dzendyn&show_icons=true&theme=vue&count_private=true" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzendyn&show_icons=true&theme=vue&layout=compact" />
+
 ## *Contact information*
 * **Phone:** +7 (989) 756-79-99
 * **Email:** evgeniy.v.nikiforov@gmail.com
@@ -8,17 +12,17 @@
 * **GitHub:** [@DzenDyn](https://github.com/dzendyn)
 * **Habr:** [@urbanrider](https://habr.com/ru/users/urbanrider/)  
 
+
+
+
+
 ## *Skills and Proficiency*
 * Javascript / TypeScript
-* NodeJS
-* Express
-* NestJS
+* NodeJS (Express, NestJS)
 * Mongoose
 * TypeORM
-* MongoDB
-* PostgreSQL
-* React Basics
-* Redux Basics
+* MongoDB / PostgreSQL / MySQL / MS SQL
+* React & Redux Basics
 * Postman
 * Docker and docker-compose
 * HTML5 and CSS3 Basics
@@ -37,10 +41,6 @@
 ![EFSET LEVEL 71 C2](/img/eng_lvl.png)
 * Russian – Native
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dzendyn&show_icons=true&theme=vue&count_private=true" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzendyn&show_icons=true&theme=vue&layout=compact" />
 
 <a href="https://github.com/dzendyn/baseBackend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dzendyn&repo=baseBackend" />
