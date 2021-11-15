@@ -1,8 +1,20 @@
-### Backend Developer
+# *Evgeny Nikiforov*
+**Backend Developer**
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=dzendyn&show_icons=true&theme=merko)](https://github.com/dzendyn)
+---
+## *Contact information*
+* **Phone:** +7 (989) 756-79-99
+* **Email:** evgeniy.v.nikiforov@gmail.com
+* **Telegram:** [@DzenDyn](https://t.me/dzendyn) 
+* **GitHub:** [@DzenDyn](https://github.com/dzendyn)
+* **Habr:** [@urbanrider](https://habr.com/ru/users/urbanrider/)  
+  
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzendyn&show_icons=true&theme=merko)](https://github.com/dzendyn)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=dzendyn&show_icons=true&theme=vue)](https://github.com/dzendyn)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzendyn&show_icons=true&theme=vue&layout=compact)](https://github.com/dzendyn)
+
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzendyn&repo=baseBackend)](https://github.com/dzendyn/baseBackend)
