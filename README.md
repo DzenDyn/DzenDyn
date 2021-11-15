@@ -9,7 +9,7 @@
 * **Habr:** [@urbanrider](https://habr.com/ru/users/urbanrider/)  
 
 
-<div style="vertical-align: top">
+<div style="display: inline-block; vertical-align: top">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dzendyn&show_icons=true&theme=vue&count_private=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzendyn&show_icons=true&theme=vue&layout=compact" />
 </div>
