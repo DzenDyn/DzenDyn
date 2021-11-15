@@ -13,7 +13,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=dzendyn&show_icons=true&theme=vue&count_private=true" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzendyn&show_icons=true&theme=vue&layout=compact" />
-
+<br />
 <div align="center">
   <a href="https://github.com/dzendyn/baseBackend">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dzendyn&repo=baseBackend" />
