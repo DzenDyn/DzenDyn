@@ -2,12 +2,14 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=dzendyn&show_icons=true&theme=vue)](https://github.com/dzendyn)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzendyn&show_icons=true&theme=vue)](https://github.com/dzendyn)
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzendyn&repo=zen-cf-ddns)](https://github.com/dzendyn/zen-cf-ddns)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzendyn&repo=baseBackend)](https://github.com/dzendyn/baseBackend)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzendyn&show_icons=true&theme=vue)](https://github.com/dzendyn)
+
+
+
 
 
 
