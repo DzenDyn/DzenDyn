@@ -8,6 +8,34 @@
 * **GitHub:** [@DzenDyn](https://github.com/dzendyn)
 * **Habr:** [@urbanrider](https://habr.com/ru/users/urbanrider/)  
 
+## *Skills and Proficiency*
+* Javascript / TypeScript
+* NodeJS
+* Express
+* NestJS
+* Mongoose
+* TypeORM
+* MongoDB
+* PostgreSQL
+* React Basics
+* Redux Basics
+* Postman
+* Docker and docker-compose
+* HTML5 and CSS3 Basics
+* Git, GitHub, Gitlab
+* VSCode, WebStorm
+
+## *Certificates*
+* Microsoft M6425
+* Microsoft M6426
+* Cisco CCNAX
+* NDG Linux Essentials
+* Huawei FusionCube
+
+## *Languages*
+* English – Upper-intermediate/Advanced, but got C2 proficient on ![EFSET](/img/efset-logo.png):
+![EFSET LEVEL 71 C2](/img/eng_lvl.png)
+* Russian – Native
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dzendyn&show_icons=true&theme=vue&count_private=true" />
