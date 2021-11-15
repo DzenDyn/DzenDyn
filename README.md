@@ -1,15 +1,12 @@
 # *Evgeny Nikiforov*
 **Backend Developer**
 
----
 ## *Contact information*
 * **Phone:** +7 (989) 756-79-99
 * **Email:** evgeniy.v.nikiforov@gmail.com
 * **Telegram:** [@DzenDyn](https://t.me/dzendyn) 
 * **GitHub:** [@DzenDyn](https://github.com/dzendyn)
 * **Habr:** [@urbanrider](https://habr.com/ru/users/urbanrider/)  
-  
----
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=dzendyn&show_icons=true&theme=vue)](https://github.com/dzendyn)
 
