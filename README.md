@@ -9,10 +9,11 @@
 * **Habr:** [@urbanrider](https://habr.com/ru/users/urbanrider/)  
 
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dzendyn&show_icons=true&theme=vue&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzendyn&show_icons=true&theme=vue&layout=compact" />
-
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dzendyn&show_icons=true&theme=vue&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzendyn&show_icons=true&theme=vue&layout=compact" />
+</div>
+  
 <a href="https://github.com/dzendyn/baseBackend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dzendyn&repo=baseBackend" />
 </a>
@@ -20,11 +21,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dzendyn&repo=zen-cf-ddns" />
 </a>
 
-
-
-
-
-
+---
 ![Profile views](https://gpvc.arturio.dev/dzendyn)
 
 <!--
