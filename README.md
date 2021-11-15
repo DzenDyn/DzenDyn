@@ -10,11 +10,11 @@
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dzendyn&show_icons=true&theme=vue&count_private=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dzendyn&show_icons=true&theme=vue&count_private=true" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzendyn&show_icons=true&theme=vue&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzendyn&show_icons=true&theme=vue&layout=compact" />
 
-<div>
+<div align="center">
   <a href="https://github.com/dzendyn/baseBackend">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dzendyn&repo=baseBackend" />
   </a>
@@ -23,7 +23,7 @@
   </a>
 </div>
 
-<div align="left">
+<div align="none">
 ![Profile views](https://gpvc.arturio.dev/dzendyn)
 </div>
 <!--
