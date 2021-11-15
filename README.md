@@ -23,9 +23,9 @@
   </a>
 </div>
 
-<div align="none">
+
 ![Profile views](https://gpvc.arturio.dev/dzendyn)
-</div>
+
 <!--
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=dzendyn&show_icons=true&theme=vue&count_private=true)](https://github.com/dzendyn)
