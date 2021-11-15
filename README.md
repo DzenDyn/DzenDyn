@@ -22,8 +22,7 @@
 </a>
 
 
-<img src="https://gpvc.arturio.dev/dzendyn" />
-![Profile views](https://gpvc.arturio.dev/dzendyn)
+<img src="https://gpvc.arturio.dev/dzendyn" align="center" />
 
 <!--
 
