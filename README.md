@@ -8,7 +8,7 @@
 * **GitHub:** [@DzenDyn](https://github.com/dzendyn)
 * **Habr:** [@urbanrider](https://habr.com/ru/users/urbanrider/)  
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=dzendyn&show_icons=true&theme=vue)](https://github.com/dzendyn)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=dzendyn&show_icons=true&theme=vue&count_private=true)](https://github.com/dzendyn)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzendyn&show_icons=true&theme=vue&layout=compact)](https://github.com/dzendyn)
 
