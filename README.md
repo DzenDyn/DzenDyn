@@ -4,7 +4,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dzendyn&show_icons=true&theme=vue&count_private=true" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzendyn&show_icons=true&theme=vue&layout=compact" />
-
 ## *Contact information*
 * **Phone:** +7 (989) 756-79-99
 * **Email:** evgeniy.v.nikiforov@gmail.com
