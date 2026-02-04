@@ -7,22 +7,21 @@
 * **GitHub:** [@DzenDyn](https://github.com/dzendyn)
 * **Habr:** [@urbanrider](https://habr.com/ru/users/urbanrider/)  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dzendyn&show_icons=true&theme=vue&count_private=true" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzendyn&show_icons=true&theme=vue&layout=compact" />
-
 ## *Skills and Proficiency*
-* JavaScript / TypeScript
-* NodeJS (Express, NestJS)
+* JavaScript / TypeScript / Python / Rust
+* NodeJS (Express, NestJS, Fastify)
+* RabbitMQ
+* Redis
+* PySpark
+* Elastic/OpenSearch
 * Mongoose
 * TypeORM
+* Prisma
 * MongoDB / PostgreSQL / MySQL / MS SQL
 * React & Redux Basics
-* Postman
-* Docker and docker-compose
+* Docker
 * HTML5 and CSS3 Basics
 * Git, GitHub, Gitlab
-* VSCode, WebStorm
 
 ## *Certificates*
 * Microsoft M6425
@@ -36,9 +35,6 @@
 * Russian – Native
 
 
-<a href="https://github.com/dzendyn/baseBackend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dzendyn&repo=baseBackend" />
-</a>
 <a href="https://github.com/dzendyn/zen-cf-ddns">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dzendyn&repo=zen-cf-ddns" />
 </a>
